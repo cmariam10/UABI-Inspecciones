@@ -28,3 +28,7 @@ python -m http.server 8000
 ```
 
 Luego abre `http://localhost:8000`.
+
+
+## Ajuste v23
+Los campos de “Dato encontrado susceptible de análisis” se consolidan únicamente en estas categorías: Georreferenciación, Nomenclatura, Nombre, Responsable, En el inventario, Ocupación y Análisis especial (englobe, desenglobe).
